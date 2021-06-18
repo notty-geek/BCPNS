@@ -5,7 +5,7 @@
 
 # Funding This Project
 
-You can now become a sponsor to BCPNS with GitHub Sponsors.
+You can now become a sponsor to BCPNS.
 
 We've been bringing theory to the world and are excited to be able to start dedicating some real resources to the project.
 
