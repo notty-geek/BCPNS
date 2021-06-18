@@ -11,7 +11,7 @@ We've been bringing theory to the world and are excited to be able to start dedi
 
 Your sponsorship helps us keep a team of maintainers actively working to build up the project and ensure it stays up-to-date. we'd greatly appreciate the contribution.
 
-All contributions will be able to see into our Open Collective, which holds our funds and keeps an open ledger on how donations are spent.
+All contributions will be able to see into our Open Collective, which holds our funds and keeps an open ledger on how money are spent.
 
 
 
